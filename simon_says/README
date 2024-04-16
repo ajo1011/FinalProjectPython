@@ -1,0 +1,33 @@
+Simon Memory Game
+
+Description: The Simon Memory Game is a classic memory challenge where players must replicate a growing sequence of illuminated tiles. This version includes sound cues and scoring enhancements to engage players further.
+
+Setup and Installation:
+
+    Prerequisites:
+
+        Python 3.x
+        Libraries: pygame, turtle, freegames
+        Install Python and the necessary libraries with:
+            bash: pip install pygame freegames 
+
+Running the Game:
+
+    Download the game script to your local machine.
+    Navigate to the game directory in your terminal or command prompt.
+    Run the game using:
+        bash: python simonsays.py OR python simonssays_variant.py
+
+How to Play:
+
+    Click anywhere to start the game.
+    Observe the sequence of flashing tiles with corresponding sound cues.
+    Click on the tiles in the order they were illuminated.
+    The game continues with increasingly longer sequences until a mistake is made.
+    Try to achieve the highest score possible by following the longest sequence.
+
+Features:
+
+    Visual and sound cues for each tile.
+    Score tracking with visual display.
+    Exiting the game resets the score for a new start.

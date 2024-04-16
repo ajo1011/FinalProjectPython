@@ -108,6 +108,5 @@ setup(420, 420, 370, 0)
 hideturtle()
 tracer(False)
 grid()
-show_score()  # Initial score display
 onscreenclick(start)
 done()

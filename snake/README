@@ -1,0 +1,34 @@
+Snake Game
+
+Description: This is an enhanced version of the classic Snake game featuring added obstacles and a scoring system. The player must navigate a growing snake around the game area, avoiding obstacles and the boundaries to collect food and score points.
+
+Setup and Installation:
+
+    Prerequisites:
+
+        Python 3.x
+        Libraries: turtle, freegames
+        Ensure Python is installed and then install the required libraries using:
+            bash: pip install freegames
+
+Running the Game:
+
+    Download the game script.
+    Open a terminal or command prompt window.
+    Navigate to the directory containing the game file.
+    Execute the game with:
+        bash: python snake.py OR python snake_variant.py
+
+How to Play:
+
+    Use the arrow keys to change the direction of the snake.
+    Eat food to grow the snake and earn points.
+    Avoid the randomly placed obstacles and the game boundaries.
+    The game ends if the snake collides with an obstacle, the wall, or itself.
+    Aim to achieve the highest score by surviving as long as possible.
+
+Features:
+
+    Dynamic obstacles that challenge the player.
+    Scoring system to enhance competitiveness.
+    Immediate feedback on the score and game-over conditions.
